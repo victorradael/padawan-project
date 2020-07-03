@@ -7,13 +7,13 @@ const Footer: React.FC = () => {
   return (
     <>
       <BottomBar>
-        <a href="https://www.linkedin.com/in/victorradael/" target="_blank">
+        <a href="https://www.linkedin.com/in/victorradael/">
           <FaLinkedin size={40} color="#01d4fc" />
         </a>
-        <a href="https://github.com/victorradael" target="_blank">
+        <a href="https://github.com/victorradael">
           <FaGithub size={40} color="#01d4fc" />
         </a>
-        <a href="https://twitter.com/VictorRadael" target="_blank">
+        <a href="https://twitter.com/VictorRadael">
           <FaTwitter size={40} color="#01d4fc" />
         </a>
       </BottomBar>
